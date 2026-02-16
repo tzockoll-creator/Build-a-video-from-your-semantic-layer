@@ -4,7 +4,7 @@ Generate animated video summaries of well performance data using Remotion and Mi
 
 ## How It Works
 
-1. **Query the semantic layer** — Data is pulled from a MicroStrategy Strategy Cloud datasource using the Strategy MCP tools (list schemas, list models, SQL queries via Trino)
+1. **Query the semantic layer** — Data is pulled from a MicroStrategy Strategy Cloud datasource using the Strategy MCP tools (list schemas, list models, SQL queries)
 2. **Structure the data** — Query results are shaped into typed TypeScript data modules
 3. **Render with Remotion** — React components animate the data into a polished 30-second MP4 video (1920x1080, 30fps)
 
