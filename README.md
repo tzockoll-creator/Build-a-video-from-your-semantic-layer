@@ -68,7 +68,7 @@ The rendered video will be output to `out/well-performance.mp4`.
    - `list_schemas` — discover available datasources
    - `list_mosaic_models` — find tables within a schema
    - `list_columns` — inspect columns and their metadata
-   - `query` — run Trino SQL to pull the data you need
+   - `query` — write's SQL to pull the data you need
 
 2. **Update `src/data.ts`** with your query results
 
