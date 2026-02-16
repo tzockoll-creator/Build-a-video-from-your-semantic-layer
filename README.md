@@ -2,6 +2,10 @@
 
 Generate animated video summaries of well performance data using Remotion and MicroStrategy's Strategy semantic layer (via MCP).
 
+<p align="center">
+  <img src="assets/preview.gif" alt="Well Performance Video Preview" width="720" />
+</p>
+
 ## How It Works
 
 1. **Query the semantic layer** — Data is pulled from a MicroStrategy Strategy Cloud datasource using the Strategy MCP tools (list schemas, list models, SQL queries)
