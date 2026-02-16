@@ -17,7 +17,7 @@ Generate animated video summaries of well performance data using Remotion and Mi
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
 | **Data Source** | [MicroStrategy Strategy Cloud](https://www.microstrategy.com/) | Semantic layer hosting well performance data |
-| **Data Access** | Strategy MCP (Model Context Protocol) | Query schemas, models, and run Trino SQL against the semantic layer |
+| **Data Access** | Strategy MCP (Model Context Protocol) | Query schemas, models, and run SQL against the semantic layer |
 | **Video Framework** | [Remotion](https://www.remotion.dev/) v4 | React-based programmatic video creation |
 | **Language** | TypeScript + React | Component authoring and type safety |
 | **Runtime** | Node.js | Build and render pipeline |
